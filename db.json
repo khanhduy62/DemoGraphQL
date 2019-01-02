@@ -1,0 +1,10 @@
+{
+  "users" : [
+    { "id": "1", "firstName": "duy", "age": 23, "companyId": "30" },
+    { "id": "2", "firstName": "ngoc", "age": 20, "companyId": "20" }
+  ],
+  "companies" : [
+    { "id": "20", "name": "apple", "description": "this is apple" },
+    { "id": "30", "firstName": "amazon", "description": "this is amazon" }
+  ]
+}

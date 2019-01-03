@@ -24,3 +24,13 @@ fragment companyField on Company {
 }
 
 ```
+
+```
+mutation {
+  addUser(firstName: "abc", age: 30) {
+    firstName
+    id
+    age
+  }
+}
+```
